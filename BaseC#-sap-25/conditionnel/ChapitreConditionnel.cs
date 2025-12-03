@@ -84,5 +84,21 @@ namespace BaseC__sap_25.conditionnel
             }
             
         }
+
+        /// <summary>
+        /// Exercice : Demander à l'utilisateur de saisir le type de café (espresso, latte, cappuccino, etc.), 
+        /// la taille (petit, moyen, grand) et le nombre de cafés qu’il désire.
+        /// 
+        /// Calculer le coût total pour la commande en fonction du type et de la taille du café.
+        /// 
+        /// Afficher les détails de la commande : (type && taille && nombre && coût total )
+        /// 
+        /// Offrir une réduction basée sur le montant total :
+        /// 5% entre 20 et 50 || 10% entre 51 et 100 || 15% pour les montants supérieurs à 100
+        /// </summary>
+        public void Exo1()
+        {
+
+        }
     }
 }
