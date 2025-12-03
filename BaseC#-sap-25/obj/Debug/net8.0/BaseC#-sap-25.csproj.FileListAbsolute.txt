@@ -1,0 +1,15 @@
+C:\Users\bstorm_user\Desktop\Formations\C#\SAP - 2025\BaseC#-sap-25\bin\Debug\net8.0\BaseC#-sap-25.exe
+C:\Users\bstorm_user\Desktop\Formations\C#\SAP - 2025\BaseC#-sap-25\bin\Debug\net8.0\BaseC#-sap-25.deps.json
+C:\Users\bstorm_user\Desktop\Formations\C#\SAP - 2025\BaseC#-sap-25\bin\Debug\net8.0\BaseC#-sap-25.runtimeconfig.json
+C:\Users\bstorm_user\Desktop\Formations\C#\SAP - 2025\BaseC#-sap-25\bin\Debug\net8.0\BaseC#-sap-25.dll
+C:\Users\bstorm_user\Desktop\Formations\C#\SAP - 2025\BaseC#-sap-25\bin\Debug\net8.0\BaseC#-sap-25.pdb
+C:\Users\bstorm_user\Desktop\Formations\C#\SAP - 2025\BaseC#-sap-25\obj\Debug\net8.0\BaseC#-sap-25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bstorm_user\Desktop\Formations\C#\SAP - 2025\BaseC#-sap-25\obj\Debug\net8.0\BaseC#-sap-25.AssemblyInfoInputs.cache
+C:\Users\bstorm_user\Desktop\Formations\C#\SAP - 2025\BaseC#-sap-25\obj\Debug\net8.0\BaseC#-sap-25.AssemblyInfo.cs
+C:\Users\bstorm_user\Desktop\Formations\C#\SAP - 2025\BaseC#-sap-25\obj\Debug\net8.0\BaseC#-sap-25.csproj.CoreCompileInputs.cache
+C:\Users\bstorm_user\Desktop\Formations\C#\SAP - 2025\BaseC#-sap-25\obj\Debug\net8.0\BaseC#-sap-25.sourcelink.json
+C:\Users\bstorm_user\Desktop\Formations\C#\SAP - 2025\BaseC#-sap-25\obj\Debug\net8.0\BaseC#-sap-25.dll
+C:\Users\bstorm_user\Desktop\Formations\C#\SAP - 2025\BaseC#-sap-25\obj\Debug\net8.0\refint\BaseC#-sap-25.dll
+C:\Users\bstorm_user\Desktop\Formations\C#\SAP - 2025\BaseC#-sap-25\obj\Debug\net8.0\BaseC#-sap-25.pdb
+C:\Users\bstorm_user\Desktop\Formations\C#\SAP - 2025\BaseC#-sap-25\obj\Debug\net8.0\BaseC#-sap-25.genruntimeconfig.cache
+C:\Users\bstorm_user\Desktop\Formations\C#\SAP - 2025\BaseC#-sap-25\obj\Debug\net8.0\ref\BaseC#-sap-25.dll

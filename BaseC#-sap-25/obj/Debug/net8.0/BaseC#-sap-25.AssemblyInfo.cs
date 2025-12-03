@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BaseC#-sap-25")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+357878262da5720dec554cb58ff0b395f1cd0e5e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e23234ab249a3b45e19292bc4798740a92a1a22")]
 [assembly: System.Reflection.AssemblyProductAttribute("BaseC#-sap-25")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BaseC#-sap-25")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
